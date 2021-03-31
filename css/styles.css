@@ -1,0 +1,20 @@
+
+body {
+  background-image: url("../images/BlogPage.png");
+  background-size: auto;
+}
+
+h1{
+  font-size: 50px;
+  text-align: center;
+  
+}
+
+h2,
+h3,
+h4
+{
+  font-size: 30px;
+  text-align: center;
+
+}
