@@ -1,20 +1,20 @@
 
 body {
   background-image: url("../images/BlogPage.png");
-  background-size: auto;
+  background-size: 1700px 900px;
 }
 
 h1{
   font-size: 50px;
   text-align: center;
-  
+  color: white;
+  font-weight:normal;
+
 }
 
-h2,
-h3,
-h4
-{
-  font-size: 30px;
-  text-align: center;
-
+table{
+  color: white;
+  table-layout: fixed;width:80%;
+  position: relative;
+  
 }
