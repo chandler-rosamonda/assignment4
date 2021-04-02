@@ -21,9 +21,11 @@ header{
   color: white;
   font-weight: normal;
   text-align: center;
-  font-size: 40px;
+  font-size: 30px;
   display: inline-block;
-
+  position:relative;
+  top:0px;
+  left:800px;
 }
 
 
