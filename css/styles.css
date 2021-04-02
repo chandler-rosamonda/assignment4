@@ -1,10 +1,12 @@
 
 body {
-  background-image: url("../images/BlogPage.png");
+  background-image: url("../images/Wood.jpg");
   background-size: 1700px 900px;
 }
 
+.Title h1{
 
+}
 h1{
   font-size: 70px;
   text-align: center;
@@ -15,52 +17,41 @@ h1{
   top: 60px
   }
 
-h2{
+header{
   color: white;
   font-weight: normal;
   text-align: center;
   font-size: 40px;
-  position:relative;
-  left: -290px;
-  top: -10px;
+  display: inline-block;
+
 }
 
-h3{
-  color: white;
-  font-weight: normal;
-  text-align: center;
-  font-size: 40px;
-  position:relative;
-  left: -30px;
-  top: -100px;
-}
-
-h4{
-  color: white;
-  font-weight: normal;
-  text-align: center;
-  font-size: 40px;
-  position:relative;
-  left: 250px;
-  top: -200px;
-}
-
-h5{
-  color: white;
-  font-weight: normal;
-  text-align: center;
-  font-size: 40px;
-  position:relative;
-  left: 490px;
-  top: -310px;
-}
 
 table{
   color: white;
-  table-layout: fixed;width:80%;
+  table-layout: fixed;width:85%;
   position: fixed;
   left: 0px;
   top: 270px;
   text-align: center;
   font-size: 20px;
+  margin: 50px 100px 100px -20px;
+}
+
+.date1 {
+  color: white;
+  font-size: 15px;
+
+}
+
+.date2 {
+  color: white;
+  font-size: 15px;
+
+}
+
+.date3 {
+  color: white;
+  font-size: 15px;
+
 }
