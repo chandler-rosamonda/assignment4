@@ -23,6 +23,7 @@ h1{
   z-index: 20;
 }
 
+
 header{
   color: white;
   font-weight: normal;
@@ -33,12 +34,15 @@ header{
   right:0px;
   background: #413734;
   width: 80%;
-
 }
 
 header nav li {
     display: inline-block;
     padding: 34px;
+}
+
+header nav li:hover{
+    color: #c8b3a9;
 }
 
 
